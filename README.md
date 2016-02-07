@@ -12,4 +12,12 @@ https://github.com/kassius/markdown-placeholder/blob/master/markdown-placeholder
 
 https://raw.githubusercontent.com/kassius/markdown-placeholder/master/markdown-placeholder.md
 
+### Syntax
 
+#### Markdown original
+
+https://daringfireball.net/projects/markdown/
+
+#### Markdown Extra
+
+https://michelf.ca/projects/php-markdown/extra/
