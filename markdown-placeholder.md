@@ -194,7 +194,7 @@ Ut nec auctor diam, vel sollicitudin nisl. Duis consequat sed risus eget iaculis
 
 ## (H2) Testing image
 
-![Alt Text, image of the nature](http://lorempixel.com/640/480/nature/ "Optional Text, this is Image")
+![Alt Text, image of the nature](https://lorempixel.com/640/480/nature/ "Optional Text, this is Image")
 
 Image embedded with code: `![Alt Text, image of the nature](http://lorempixel.com/640/480/nature/ "Optional Text, this is Image")`
 
